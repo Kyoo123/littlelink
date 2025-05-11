@@ -637,3 +637,9 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* NGL */
+.button-ngl {
+	--button-text:#FFFFFF;
+	background-image:linear-gradient(-45deg, #ff8d10, #ec1187);
+}
