@@ -220,6 +220,12 @@
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
+/* Airbuds.fm */
+.button-airbuds {
+	 --button-text:#ffffff;
+	 --button-background:#000000;
+	 --button-border:1px solid #FFFFFF;
+ }
 
 /* GitLab */
 .button-gitlab {
